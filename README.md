@@ -95,8 +95,6 @@ Montagem com o LED no pino 13 com resistor de 220Ω:
 +5V ----->|220R|----->| LED |-----> GND
 ```
 
-*Dica: você pode usar imagens do Tinkercad ou Fritzing se quiser anexar na entrega.*
-
 ---
 
 ## 👍 Contribuição
