@@ -98,7 +98,7 @@ Montagem com o LED no pino 13 com resistor de 220Ω:
 ---
 
 ## 👍 Contribuição
-Este projeto foi desenvolvido como parte da disciplina **Engenharia de Software I** com foco em **Internet das Coisas**.
+Este projeto foi desenvolvido como parte da disciplina **Internet das Coisas e Aplicações** com foco em Arduino e Python.
 
 Trabalho da Equipe [João Barreto](https://github.com/jaobarreto), [Davi Mathais](https://github.com/cksalmeida) e [Luiz Guilherme](https://github.com/luizgfr).
 
